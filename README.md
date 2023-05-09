@@ -28,7 +28,12 @@ An example of this application’s state might look like this:
 }
 </code>
 
-### feature-based pattern
+### feature-based pattern is used to structure this project (Recommended by the React developer community)
+
+- cart
+- currency filter
+- inventory
+- search
 
 Tasks completed:
 
