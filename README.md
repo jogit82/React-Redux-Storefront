@@ -1,7 +1,8 @@
-E-commerce storefront with inventory and search capability
+# E-commerce storefront with inventory and search capability
 
 This is an online store! The application should display products from the store and allow the user to add them to their cart. In the cart, the user can adjust the quantity of each item and the running total will be displayed at the bottom. Lastly, the user can choose the currency for the entire application.
 
+![Animated demo](https://github.com/jogit82/e-commerce-storefront-react-redux/blob/master/shopping-cart-demo.gif?raw=true)
 
 This application has three slices of state:
 
